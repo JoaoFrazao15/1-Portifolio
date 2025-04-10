@@ -12,13 +12,11 @@ body {
 }
 
 .interface {
-    max-width: 1280px;
+     max-width: 1200px; 
     margin: 0 auto;
 }
 
-.logo{
-    width: 98px;
-}
+
 
 .flex {
     display: flex;
@@ -62,6 +60,9 @@ header>.interface {
     justify-content: space-between;
 }
 
+/* header> .interface> .logo{
+    width: 50px;
+} */
 header a {
     color: #5c5c5c;
     text-decoration: none;
@@ -80,7 +81,7 @@ header nav ul {
 
 header nav.menu-desktop ul li {
     display: inline-block;
-    padding: 0 40px;
+    padding: 0 20px;
 }
 
 /* ESTILO DO MENU MOBILE */
