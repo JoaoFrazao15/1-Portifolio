@@ -258,12 +258,12 @@ section.sobre .flex {
 .btn-social button {
     width: 60px;
     height: 60px;
-    border-radius: 50%;
+    border-radius: 70%;
     border: none;
     background-color: #00FF08;
     font-size: 22px;
     cursor: pointer;
-    margin: 0 5px;
+    margin: 0 0px;
     transition: .2s;
 }
 
