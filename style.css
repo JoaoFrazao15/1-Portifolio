@@ -12,11 +12,9 @@ body {
 }
 
 .interface {
-     max-width: 1200px; 
+    max-width: 1900px;
     margin: 0 auto;
 }
-
-
 
 .flex {
     display: flex;
@@ -51,7 +49,7 @@ form .btn-enviar input:hover {
 
 /* ESTILO DO CABEÇALHO */
 header {
-    padding: 40px 4%;
+    padding: 0px 5%;
 }
 
 header>.interface {
